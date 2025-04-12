@@ -1,6 +1,7 @@
 # Yuri De Santis
 
-### Hello there! 👋 Welcome to my GitHub profile! I am Yuri De Santis, a PhD student in Robotics and Automation at Università di Pisa and Research Center E. Piaggio. 
+### Hello there! 👋 Welcome to my GitHub profile! 
+### I am Yuri De Santis, a PhD student in Robotics and Automation at Università di Pisa and Research Center E. Piaggio. 
 Explore my repositories and feel free to contact me! 
 
 ## 🌱 Skills and Interests
