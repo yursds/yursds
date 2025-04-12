@@ -25,5 +25,3 @@ You can reach out to me via the following methods:
 
 
 ![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yursds)
-
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=yursds&column=7)](https://github.com/ryo-ma/github-profile-trophy)
