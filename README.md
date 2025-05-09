@@ -22,6 +22,3 @@ Feel free to explore my repositories for more details!
 You can reach out to me via the following methods:
 - Email: [yuri.desantis@phd.unipi.it](mailto:yuri.desantis@phd.unipi.it)
 - LinkedIn: [Yuri De Santis](https://www.linkedin.com/in/yuri-de-santis-487a79266/)
-
-
-![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yursds)
