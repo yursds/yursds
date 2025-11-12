@@ -7,7 +7,7 @@ Explore my repositories and feel free to contact me!
 ## 🌱 Skills and Interests
 *   **Research Interests:** Adaptive Control, Reinforcement Learning, Quadrupedal Locomotion, Deep Neural Networks 
 *   **Programming Languages:** Python, C++, C, Dockerfile
-*   **Robotics Frameworks & Tools:** ROS, ROS 2, PyTorch, Docker
+*   **Robotics Frameworks & Tools:** ROS, ROS2, PyTorch, JAX, Docker
 *   **Core Competencies:** Reinforcement Learning, Locomotion planning, Iterative Learning Control, Academic Research, LaTeX typesetting and publishing.
 *   **Languages:** Italian (Mother Tongue), English, and Japanese
 
